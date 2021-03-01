@@ -1,7 +1,7 @@
 ## Parks and Recreation NLP
 
 ### Description
-#### The goal of this project was to see how well CorEx topic modeling and Vader sentiment analysis work on Leslie Knope and Ron Swanson's dialogue individually, as well as the conversations between them. 
+#### The goal of this project is to see how well CorEx topic modeling and Vader sentiment analysis work on Leslie Knope and Ron Swanson's dialogue individually, as well as the conversations between them. 
 &nbsp;
 
 ### Background
